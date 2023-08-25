@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 echo "ALX"D
 echo "ALX School is so cool!"LX""
 =======
 echo "ALX School"""
+>>>>>>> update_script
+=======
+echo "ALX"
+echo "ALX"update" School"""
 >>>>>>> update_script
